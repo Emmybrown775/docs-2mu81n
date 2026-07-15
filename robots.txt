@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-kk93f7.citysinglescommunity.com/sitemap.xml
